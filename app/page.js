@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <div style={{ padding: '20px', textAlign: 'center' }}>
-      <h1>Kiểm tra số chẵn lẻ</h1>
+      <h1>CMC: Kiểm tra số chẵn lẻ</h1>
       <input
         type="number"
         value={number}
