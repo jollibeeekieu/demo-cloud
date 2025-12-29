@@ -13,7 +13,7 @@ export default function CloudCMC() {
           Cloud Computing
         </h1>
         <p className="text-center text-gray-300 mb-10">
-          Công nghệ nền tảng cho giáo dục và chuyển đổi số hiện đại
+          Công nghệ nền tảng cho giáo dục chuyển đổi số hiện đại
         </p>
 
         {/* Tabs */}
